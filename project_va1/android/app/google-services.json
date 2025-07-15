@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "798235182933",
+    "project_id": "vibration-bts",
+    "storage_bucket": "vibration-bts.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798235182933:android:1abea18cb5bbdf7a6151dc",
+        "android_client_info": {
+          "package_name": "com.example.project_v1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIRcy9ZHeDqWYonYbvB4dU66Iy9xJ7P-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:798235182933:android:2a7b818efc5115376151dc",
+        "android_client_info": {
+          "package_name": "com.example.project_va1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCIRcy9ZHeDqWYonYbvB4dU66Iy9xJ7P-M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
